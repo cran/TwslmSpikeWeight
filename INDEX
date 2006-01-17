@@ -1,0 +1,7 @@
+HU                      Human placenta versus the Universal reference
+                        hybridization data
+HUweightdata            Spot quality information for Human placenta
+                        versus the Universal reference hybridization
+TwslmSpikeWeight        Normalization of cDNA microarray data using
+                        spike and spot quality information in the
+                        two-way semi-linear model (TW-SLM)
